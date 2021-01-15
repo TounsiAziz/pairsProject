@@ -1,0 +1,163 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+.wrapper{
+	background-color: white;
+	background-size: cover;
+	height: 100vh;
+}
+.navigation{
+	height: 80px;
+	width: 100%
+	background: rgba(0,0,0,0.4);
+
+}
+.logo{
+	width: 140px;
+	height: auto;
+	padding: 20px 100px;
+}
+.navigation ul{
+	float: right;
+	margin-right: 20px;
+
+}
+.navigation ul li{
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+	margin-top: 20px;
+
+}
+.navigation ul li a{
+	text-decoration: none;
+	color: 	#666666;
+	font-size: 20px;
+	padding: 6px 13px; 
+	font-family: Lucida Console;
+	transition: .4s;
+}
+.navigation ul li a.other,
+.navigation ul li a:hover{
+	background: #b3b3b3;
+	border-radius: 2px;
+}
+.wrapper .center{
+	position: absolute;
+	top: 50%;
+	left: 55%;
+	transform: translate(-50%, -50%);
+	font-family: sans-serif;
+	user-select: none;
+}
+.center h1{
+	color: #2e2e38;
+	font-size: 70px;
+	font-weight: bold;
+	font-family: Georgia;
+	width: 900px;
+	margin-left: 290px;
+	margin-top: 300px;
+ 
+
+}
+.center h2{
+	color: #2e2e38;
+	font-size: 70px;
+	font-weight: bold;
+	width: 900px;
+	margin-left: 250px; 
+	font-family: Lucida Handwriting;
+	margin-top: 260px;
+
+}
+.center .space{
+	margin-top: 50px;
+	margin-left: 500px;
+}
+ .camping{
+	font-family: Lucida Handwriting;
+	color: #2e2e38;
+	font-size: 70px;
+	font-weight: bold;
+	width: 900px;
+	margin-top: 40px;
+	margin-left: 210px;
+
+}
+
+
+
+#img1{
+    margin-right: 360px;
+}
+#img2{
+	margin-right: 260px;
+}
+#img3{
+      margin-left: 350px;
+}
+.center .sleeping{
+	font-family: Lucida Handwriting;
+	color:  #2e2e38;
+	font-size: 70px;
+	margin-left: 160px;
+
+}
+.ahbet {
+	margin-left: 500px;
+}
+
+.wrapper .centred{
+	position: absolute;
+	top: 190%;
+	left: 53%;
+	transform: translate(-50%, -50%);
+	font-family: sans-serif;
+	user-select: none;
+
+}
+.SS {
+	font-family: Lucida Handwriting;
+	color: #2e2e38;
+	font-size: 70px;
+	font-weight: bold;
+	width: 900px;
+	margin-top: -220px;
+	margin-left: 210px;
+
+}
+
+#s1{
+	margin-right: 360px;
+}
+#s3{
+	position:center;
+	margin-left: 320px;
+}
+.EE{
+	font-family: Lucida Handwriting;
+	color: #2e2e38;
+	font-size: 70px;
+	font-weight: bold;
+	width: 900px;
+	margin-left: 380px;
+	margin-top: 1500px;
+}
+#e1{
+	margin-left: 250px;
+}
+#e2{
+	margin-left: 550px;
+}
+#e3{
+	margin-left: 350px;
+	margin-top: 60px;
+}
+#e4{
+	margin-left: 150px;
+}
+
